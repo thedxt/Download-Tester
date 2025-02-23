@@ -10,4 +10,4 @@ A PowerShell script that preforms a downlaod test by downloading a file from a s
 - `-DownloadUrl` URL for the file to be downloaded for the download test.
   - Default: `http://ipv4.download.thinkbroadband.com/512MB.zip`
 
-[More detailed documentation](https://thedxt.ca/)
+[More detailed documentation](https://thedxt.ca/2025/02/powershell-progresspreference/)
