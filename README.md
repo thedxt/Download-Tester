@@ -3,7 +3,7 @@ A PowerShell script that preforms a downlaod test by downloading a file from a s
 
 ## Parameters
 
-- `-ChangeProgPref` Switch to change the progress preference to "SilentlyContinue" before running the download test.
+- `-ChangeProgPref` Switch to change the progress preference to `SilentlyContinue` before running the download test.
   - Default: False
 - `-OutputPath` The local file path where the downloaded file will be saved.
   -  Default: `C:\temp\download-test-file.zip`
